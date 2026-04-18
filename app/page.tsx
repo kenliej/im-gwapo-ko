@@ -3,6 +3,8 @@ export default function Home() {
   const members = [
     { id: 1, name: "Kenlie", role: "Useless", image: "/images/kenlie-gwapo.jpg" },
     { id: 2, name: "Charlie", role: "Leader", image: "/images/charlie-gwapa.PNG" },
+    { id: 3, name: "Dudes", role: "Leader", image: "/images/di-jud-ni-dudes.PNG" },
+    { id: 4, name: "Sherwynn", role: "Leader", image: "/images/sherwynn-leader.PNG" },
   ]
 
   return (
